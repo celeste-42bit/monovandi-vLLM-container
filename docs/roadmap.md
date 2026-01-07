@@ -1,0 +1,5 @@
+- expose api in a safe way using jumpserver and asymmetric key authentication
+- generate version table
+- research automatic versioning for container
+- test compatibility with different NVidia driver versions
+- research container security and apply concepts to vllm container
